@@ -1,0 +1,44 @@
+---
+title: "The SDAC Reporting Model"
+subtitle: "The 'Madison Firewall' for Independent Data Monitoring"
+---
+
+## Overview of the Two-Report System
+
+The hallmark of the Statistical Data Analysis Center (SDAC) model at UW-Madison is the absolute separation of trial conduct from trial results. This is achieved through a strict "Two-Report" system.
+
+### 1. The Open Report
+The **Open Report** is provided to everyone involved in the trial, including the Sponsor and the Steering Committee. Its primary purpose is to monitor trial **integrity and progress**.
+
+* **Recruitment:** Comparison of actual vs. projected accrual.
+* **Baseline Characteristics:** Pooled demographics to ensure the enrolled population matches the target population.
+* **Data Quality:** Completeness of forms, timeliness of data entry, and lost-to-follow-up rates.
+* **Aggregate Safety:** Serious Adverse Events (SAEs) reported for the *entire* study population (treatment arms combined).
+
+### 2. The Closed Report
+The **Closed Report** is the "Inner Sanctum." It is prepared by the Independent Reporting Statistician and is seen **only** by the DMC.
+
+* **Unblinded Efficacy:** Primary and secondary endpoints broken down by Treatment Arm A vs. Arm B.
+* **Unblinded Safety:** Comparison of SAEs and specific toxicities between arms.
+* **Statistical Boundaries:** Presentation of interim results against stopping rules (e.g., O'Brien-Fleming or Lan-DeMets alpha-spending boundaries).
+
+
+
+---
+
+## The Independent Statistical Analysis Center (ISAC)
+
+In this model, the ISAC (often the SDAC itself) acts as the **Data Firewall**. 
+
+### Key Responsibilities of the ISAC:
+1.  **Access to Randomization:** The ISAC is the only group besides the clinical database manager with access to the treatment codes.
+2.  **Preparation of the "Closed" Pack:** They generate the unblinded tables and figures.
+3.  **The Pre-Meeting:** The Independent Statistician often meets with the DMC chair before the full meeting to walk through the "Closed" findings.
+4.  **No Sponsor Influence:** By keeping the Sponsor blinded to the "Closed" data, the ISAC prevents the Sponsor from making changes to the trial (like increasing sample size or dropping an arm) based on a "sneak peek" at the results.
+
+> "The reporting statistician must be independent of the sponsor to ensure that the interim results do not inadvertently influence the trial's conduct." — *Adapted from Ellenberg, Fleming, and DeMets (2002).*
+
+---
+
+## Why the Firewall Matters
+If the Sponsor were to see the unblinded data, even without taking action, the "blinded" status of the trial would be compromised in the eyes of regulatory bodies (FDA/EMA). The SDAC model ensures that the **scientific and statistical integrity** of the trial remains beyond reproach until the final analysis.

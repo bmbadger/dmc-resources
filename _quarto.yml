@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "DMC Statistical Resources"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: demets_classics.qmd
+        text: DeMets Classics
+      - href: sdac_reporting_model.qmd
+        text: Reporting Model
+
+format:
+  html:
+    theme: cosmo
+    toc: true
