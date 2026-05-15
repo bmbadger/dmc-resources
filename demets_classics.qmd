@@ -1,0 +1,23 @@
+## The Essential Madison Bibliography
+
+These four texts, authored or co-authored by Dave DeMets, form the foundation of the "Madison School" of clinical trial oversight.
+
+### 1. The "Intro" - Fundamentals of Clinical Trials (5th Ed)
+*Friedman, Furberg, and DeMets (2015)*
+- **Role:** The comprehensive primer. 
+- **DMC Utility:** Excellent for the "Big Picture" of where the DMC fits into the broader trial ecosystem (Recruitment, Randomization, and Data Management).
+
+### 2. The "Blue Book" - Data Monitoring Committees in Clinical Trials
+*Ellenberg, Fleming, and DeMets (2002)*
+- **Role:** The practitioner's handbook.
+- **DMC Utility:** This is the most important book for this project. It covers the "Firewall," the Charter, and the specific dynamics of the Open vs. Closed sessions.
+
+### 3. The "War Stories" - Data Monitoring in Clinical Trials: A Case Studies Approach
+*DeMets, Furberg, and Friedman (2006)*
+- **Role:** Real-world application.
+- **DMC Utility:** Critical for learning from past DMCs (like CAST or BHAT). It helps statisticians understand that "the math is the easy part"—it's the decision-making under uncertainty that is hard.
+
+### 4. The "Math" - Introduction to Statistical Methods for Clinical Trials
+*Cook and DeMets (2008)*
+- **Role:** The technical deep-dive.
+- **DMC Utility:** This is where the Group Sequential methods, alpha-spending functions, and survival analysis techniques are formalized.
