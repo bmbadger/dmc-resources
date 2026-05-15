@@ -40,5 +40,12 @@
     "title": "The SDAC Reporting Model",
     "section": "Why the Firewall Matters",
     "text": "Why the Firewall Matters\nIf the Sponsor were to see the unblinded data, even without taking action, the “blinded” status of the trial would be compromised in the eyes of regulatory bodies (FDA/EMA). The SDAC model ensures that the scientific and statistical integrity of the trial remains beyond reproach until the final analysis."
+  },
+  {
+    "objectID": "sdac_reporting_model.html#foundational-references-for-the-independent-model",
+    "href": "sdac_reporting_model.html#foundational-references-for-the-independent-model",
+    "title": "The SDAC Reporting Model",
+    "section": "Foundational References for the Independent Model",
+    "text": "Foundational References for the Independent Model\n\nThe “Potomac” Papers (The Blueprint)\n\nFisher LD, Roecker EB, and DeMets DL. (2001). The role of an independent statistical analysis center in the industry-modified NIH model. Statistics in Medicine, 20(17-18), 2593-2604.\n\nKey Concept: This is the core paper defining the “Firewall.” It explains how an academic center (like SDAC) can serve as the unblinded engine for an industry trial.\n\n\n\n\nRecent Reflections on Independence\n\nDeMets DL and Cook TD. (2022). The role of the statistician on a data monitoring committee. Journal of Biopharmaceutical Statistics, 32(5).\n\nKey Concept: DeMets revisits the model in the context of modern “Adaptive Designs.” He argues that as trials get more complex, the independence of the reporting statistician becomes more important, not less.\n\nDeMets DL, et al. (2020). Data Monitoring Committees: Expect the Unexpected. New England Journal of Medicine.\n\nKey Concept: Highlights that the independent statistician isn’t just a “data cruncher” but a critical advisor to the DMC when trials face external shocks (like a pandemic or a competitor’s sudden result)."
   }
 ]
